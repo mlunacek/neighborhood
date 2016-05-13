@@ -1,0 +1,24 @@
+{
+  "name": "builder",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "Monte Lunacek"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "3.10.1",
+    "angular": "~1.4.8",
+    "angular-bootstrap": "*",
+    "d3": "~3.4.9",
+    "filesaver": "*",
+    "mathjs": "~2.5.0",
+  }
+}
