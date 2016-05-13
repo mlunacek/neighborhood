@@ -19,6 +19,6 @@
     "angular-bootstrap": "*",
     "d3": "~3.4.9",
     "filesaver": "*",
-    "mathjs": "~2.5.0",
+    "mathjs": "~2.5.0"
   }
 }
